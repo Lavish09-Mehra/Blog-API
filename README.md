@@ -86,8 +86,9 @@ GET /api/blog/tech
 
 - Make sure your MongoDB server is running and accessible.
 - The API uses `mongoose` with timestamps enabled for blog documents.
-```
+  
 
 ## Creator: Lavish Mehra
 
-- If you see this repo a useful to help in increase your knowledge just drop a star
+- If you see this repo a useful to help in increase your knowledge just drop a star⭐
+- GitHub profile: https://github.com/Lavish09-Mehra
